@@ -1,0 +1,9 @@
+const StyledCard = () => {
+    return (
+        <div style={{ backgroundColor: 'lightblue', padding: '20px', borderRadius: '10px', color: 'darkblue'}}>
+            <h1>Styled Card</h1>
+        </div>
+    );
+}
+
+export default StyledCard;
